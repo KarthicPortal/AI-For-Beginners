@@ -1,0 +1,69 @@
+[
+  {
+    "title": "தொடக்கநிலை AI: வினாக்கள்",
+    "complete": "வாழ்த்துக்கள், நீங்கள் வினாதாளை முடித்துவிட்டீர்கள்!",
+    "error": "மன்னிக்கவும், மீண்டும் முயற்சி செய்யவும்",
+    "quizzes": [
+      {
+        "id": 101,
+        "title": "AI அறிமுகம்: முன் வினாடி வினா",
+        "quiz": [
+          {
+            "questionText": "19ஆம் நூற்றாண்டின் பிரபலமான முன்கணிப்பு-கணினி பொறியாளர் யார்?",
+            "answerOptions": [
+              { "answerText": "சார்லஸ் பார்க்லே", "isCorrect": false },
+              { "answerText": "சார்லஸ் பேப்பேஜ்", "isCorrect": true },
+              { "answerText": "சார்லஸ் டார்வின்", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "வீக் AI பல பணிகளைத் தீர்க்க வடிவமைக்கப்பட்டது",
+            "answerOptions": [
+              { "answerText": "உண்மை", "isCorrect": false },
+              { "answerText": "தவறு", "isCorrect": true }
+            ]
+          },
+          {
+            "questionText": "சொடுக்குப் போட்டிகள் உண்மையாக புத்திசாலி அமைப்புகளின் உதாரணமா?",
+            "answerOptions": [
+              { "answerText": "தவறு, அவை பொதுவாக விதிகளின் தொடர்களால் வடிவமைக்கப்படுகின்றன.", "isCorrect": false },
+              { "answerText": "உண்மை, அவை பொதுவாக 'புத்திசாலி' என கருதப்படுகின்றன", "isCorrect": false },
+              { "answerText": "தவறு, ஆனால் அவை அதிக நுணுக்கமாக வளருவதால் Turing சோதனைகளை கடக்க முடிகிறது.", "isCorrect": true }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 201,
+        "title": "AI அறிமுகம்: பிந்தைய வினாடி வினா",
+        "quiz": [
+          {
+            "questionText": "AI-க்கு ஒரு மேல்-கீழ் அணுகுமுறை என்று அழைக்கப்படும் தர்க்க மாதிரி எது?",
+            "answerOptions": [
+              { "answerText": "தந்திர தர்க்கம்", "isCorrect": false },
+              { "answerText": "சின்னவியல் தர்க்கம்", "isCorrect": true },
+              { "answerText": "இணைதள தர்க்கம்", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "AI-க்கு ஒரு கீழ்-மேல் அணுகுமுறை நரம்பு வலையமைப்புகளை அடிப்படையாகக் கொண்டது",
+            "answerOptions": [
+              { "answerText": "உண்மை", "isCorrect": true },
+              { "answerText": "தவறு", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "AI குளிர்காலம் ஏற்பட்ட தசாப்தம்",
+            "answerOptions": [
+              { "answerText": "1950கள்", "isCorrect": false },
+              { "answerText": "1960கள்", "isCorrect": false },
+              { "answerText": "1970கள்", "isCorrect": true }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
+
+
