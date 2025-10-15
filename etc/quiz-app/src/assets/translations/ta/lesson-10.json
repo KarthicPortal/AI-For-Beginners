@@ -1,0 +1,70 @@
+[
+  {
+    "title": "தொடக்கநிலை AI: வினாக்கள்",
+    "complete": "வாழ்த்துக்கள், நீங்கள் வினாதாளை முடித்துவிட்டீர்கள்!",
+    "error": "மன்னிக்கவும், மீண்டும் முயற்சி செய்யவும்",
+    "quizzes": [
+      {
+        "id": 110,
+        "title": "ஜெனரேட்டிவ் அட்வெர்சிரியல் நெட்வொர்க்குகள் (GANs): முன் வினா",
+        "quiz": [
+          {
+            "questionText": "ஜெனரேட்டர்கள் வெக்டர்களை எடுத்து ____ உருவாக்குகின்றன",
+            "answerOptions": [
+              { "answerText": "வீடியோக்கள்", "isCorrect": false },
+              { "answerText": "படம்", "isCorrect": true },
+              { "answerText": "gif", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "GANs என்பதன் விரிவாக்கம்?",
+            "answerOptions": [
+              { "answerText": "General adversarial networks", "isCorrect": false },
+              { "answerText": "Generative advisor networks", "isCorrect": false },
+              { "answerText": "Generative adversarial networks", "isCorrect": true }
+            ]
+          },
+          {
+            "questionText": "GAN ____ நரம்பு வலையமைப்புகளைப் பயன்படுத்துகிறது",
+            "answerOptions": [
+              { "answerText": "1", "isCorrect": false },
+              { "answerText": "2", "isCorrect": true },
+              { "answerText": "3", "isCorrect": false }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 210,
+        "title": "ஜெனரேட்டிவ் அட்வெர்சிரியல் நெட்வொர்க்குகள் (GANs): பிந்தைய வினா",
+        "quiz": [
+          {
+            "questionText": "பயிற்சியை ஸ்திரப்படுத்த Batch normalization மற்றும் BatchNorm1D ஐப் பயன்படுத்தலாம்",
+            "answerOptions": [
+              { "answerText": "உண்மை", "isCorrect": true },
+              { "answerText": "தவறு", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "Deep Convolutional GAN இல் ____ மற்றும் ____ க்கு கன்வல்யூஷனல் அடுக்குகள் பயன்படுத்தப்படுகின்றன",
+            "answerOptions": [
+              { "answerText": "generator, discriminator", "isCorrect": true },
+              { "answerText": "CNN, generator", "isCorrect": false },
+              { "answerText": "training, testing", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "GAN பயிற்சியின் சிக்கல்கள்",
+            "answerOptions": [
+              { "answerText": "ஹைப்பர்பாரமீட்டர்களுக்கு உணர்திறன்", "isCorrect": false },
+              { "answerText": "ஜெனரேட்டர் மற்றும் டிஸ்கிரிமினேட்டர் இடையே சமநிலையை வைத்தல்", "isCorrect": false },
+              { "answerText": "மேற்கண்ட அனைத்தும்", "isCorrect": true }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
+
+

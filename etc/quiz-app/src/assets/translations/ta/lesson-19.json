@@ -1,0 +1,70 @@
+[
+  {
+    "title": "தொடக்கநிலை AI: வினாக்கள்",
+    "complete": "வாழ்த்துக்கள், நீங்கள் வினாதாளை முடித்துவிட்டீர்கள்!",
+    "error": "மன்னிக்கவும், மீண்டும் முயற்சி செய்யவும்",
+    "quizzes": [
+      {
+        "id": 119,
+        "title": "பெயரிடப்பட்ட实体 (Named Entity Recognition): முன் வினா",
+        "quiz": [
+          {
+            "questionText": "NER என்பதன் விரிவாக்கம் என்ன?",
+            "answerOptions": [
+              { "answerText": "Nearest Estimated Region", "isCorrect": false },
+              { "answerText": "Nearest Entity Region", "isCorrect": false },
+              { "answerText": "Named Entity Recognition", "isCorrect": true }
+            ]
+          },
+          {
+            "questionText": "ஒரு entity எப்போதும் ஒரு டோக்கனை மட்டுமே கொண்டிருக்கும்",
+            "answerOptions": [
+              { "answerText": "உண்மை", "isCorrect": false },
+              { "answerText": "தவறு", "isCorrect": true }
+            ]
+          },
+          {
+            "questionText": "NER மாதிரியைப் பயிற்றுவிக்க, எங்களுக்கு தேவை",
+            "answerOptions": [
+              { "answerText": "லேபிளிடப்பட்ட தரவுத்தொகுப்பு", "isCorrect": true },
+              { "answerText": "எந்த இயற்கை உரையும்", "isCorrect": false },
+              { "answerText": "இரு மொழிகளில் மொழிபெயர்க்கப்பட்ட உரைகள்", "isCorrect": false }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 219,
+        "title": "பெயரிடப்பட்ட实体 (Named Entity Recognition): பிந்தைய வினா",
+        "quiz": [
+          {
+            "questionText": "NER மாதிரி அடிப்படையில் ஒரு ____ மாதிரி",
+            "answerOptions": [
+              { "answerText": "உரை வகைப்படுத்தல்", "isCorrect": false },
+              { "answerText": "டோக்கன் வகைப்படுத்தல்", "isCorrect": true },
+              { "answerText": "உரை ரிக்ரெஷன்", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "பெயரிடப்பட்ட பொருள் அடையாளத்திற்கு எந்த நரம்பு வலையமைப்புகளைப் பயன்படுத்தலாம்?",
+            "answerOptions": [
+              { "answerText": "RNNs", "isCorrect": false },
+              { "answerText": "Transformers", "isCorrect": false },
+              { "answerText": "RNN களும் Transformers-மும்", "isCorrect": true }
+            ]
+          },
+          {
+            "questionText": "NER மாதிரி ஒரு ____ நெட்வொர்க் கட்டமைப்புக்கான சிறந்த உதாரணம்",
+            "answerOptions": [
+              { "answerText": "one-to-one", "isCorrect": false },
+              { "answerText": "one-to-many", "isCorrect": false },
+              { "answerText": "many-to-many", "isCorrect": true }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
+
+

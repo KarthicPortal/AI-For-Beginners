@@ -30,15 +30,11 @@ export default {
       return messages;
     },
     currLocale() {
-      return this.$root.$i18n.locale;
+      return this.$i18n.locale;
     }
   },
   i18n: { messages },
-  watch: {
-    locale(val) {
-      this.$root.$i18n.locale = val;
-    },
-  },
+  watch: {},
   created() {
     this.route = this.$route.params.id;
     if (this.$route.query.loc) {

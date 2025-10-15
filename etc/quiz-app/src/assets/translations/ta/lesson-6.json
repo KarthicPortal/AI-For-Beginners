@@ -1,0 +1,69 @@
+[
+  {
+    "title": "தொடக்கநிலை AI: வினாக்கள்",
+    "complete": "வாழ்த்துக்கள், நீங்கள் வினாதாளை முடித்துவிட்டீர்கள்!",
+    "error": "மன்னிக்கவும், மீண்டும் முயற்சி செய்யவும்",
+    "quizzes": [
+      {
+        "id": 106,
+        "title": "கம்ப்யூட்டர் விஷன் அறிமுகம்: முன் வினா",
+        "quiz": [
+          {
+            "questionText": "கம்ப்யூட்டர் விஷன் என்பது கணினிகளுக்கு _____ பற்றிய புரிதலை அளிப்பதை நோக்கமாகக் கொண்டது",
+            "answerOptions": [
+              { "answerText": "படங்கள்", "isCorrect": true },
+              { "answerText": "உரை", "isCorrect": false },
+              { "answerText": "கணினிகள்", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "பட செயலாக்கத்திற்கான Python நூலகங்கள்",
+            "answerOptions": [
+              { "answerText": "OpenCV", "isCorrect": false },
+              { "answerText": "Pillow", "isCorrect": false },
+              { "answerText": "a மற்றும் b", "isCorrect": true }
+            ]
+          },
+          {
+            "questionText": "Python இல் படங்களை NumPy வரிசைகளாக பிரதிநிதித்துவப்படுத்த முடியாது",
+            "answerOptions": [
+              { "answerText": "உண்மை", "isCorrect": false },
+              { "answerText": "தவறு", "isCorrect": true }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 206,
+        "title": "கம்ப்யூட்டர் விஷன் அறிமுகம்: பிந்தைய வினா",
+        "quiz": [
+          {
+            "questionText": "Optical Flow வீடியோ பிரேம்களில் ஒவ்வொரு பிக்சலும் எவ்வாறு நகர்கிறது என்பதைப் புரிந்து கொள்வதில் உதவுகிறது",
+            "answerOptions": [
+              { "answerText": "உண்மை", "isCorrect": true },
+              { "answerText": "தவறு", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "_____ ஒவ்வொரு பிக்சலும் எங்கு நகர்கிறது என்பதை காட்டும் வெக்டர் புலத்தை கணக்கிடுகிறது",
+            "answerOptions": [
+              { "answerText": "Sparse Optical Flow", "isCorrect": false },
+              { "answerText": "Dense Optical Flow", "isCorrect": true },
+              { "answerText": "யாருமில்லை", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "Resizing மற்றும் Blurring எப்போது செய்யக்கூடிய படிகள்?",
+            "answerOptions": [
+              { "answerText": "முன் செயலாக்கம் (pre-processing)", "isCorrect": true },
+              { "answerText": "பயிற்சி (training)", "isCorrect": false },
+              { "answerText": "பட மாற்றம் (image transformation)", "isCorrect": false }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
+
+

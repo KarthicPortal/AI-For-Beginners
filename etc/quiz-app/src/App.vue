@@ -12,22 +12,19 @@
           <select v-model="locale">
             <option>en</option>
             <option>es</option>
+            <option>ta</option>
           </select>
         </li>
         <li class="title">{{ questions[locale][0].title }}</li>
       </ul>
     </nav>
     <div id="app">
-      
-      <router-view>
-        <Quiz />
-      </router-view>
+      <router-view />
     </div>
   </div>
 </template>
 
 <script>
-import Quiz from "@/components/Quiz.vue";
 import messages from "@/assets/translations";
 
 export default {
@@ -36,12 +33,8 @@ export default {
     questions() {
       return messages;
     },
-    
   },
-  i18n: { messages },
-  components: {
-    Quiz,
-  },
+  components: {},
   data() {
     return {
       locale: "",
@@ -49,7 +42,7 @@ export default {
   },
   watch: {
     locale(val) {
-      this.$root.$i18n.locale = val;
+      this.$i18n.locale = val;
     },
   },
   created() {

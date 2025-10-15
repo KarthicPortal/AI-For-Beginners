@@ -1,0 +1,69 @@
+[
+  {
+    "title": "தொடக்கநிலை AI: வினாக்கள்",
+    "complete": "வாழ்த்துக்கள், நீங்கள் வினாதாளை முடித்துவிட்டீர்கள்!",
+    "error": "மன்னிக்கவும், மீண்டும் முயற்சி செய்யவும்",
+    "quizzes": [
+      {
+        "id": 113,
+        "title": "உரை பிரதிநிதித்துவம்: முன் வினா",
+        "quiz": [
+          {
+            "questionText": "Bag of Words இல் ஒவ்வொரு சொல்லும் ஒரு வெக்டர் குறியீட்டுடன் (index) இணைக்கப்பட்டுள்ளது",
+            "answerOptions": [
+              { "answerText": "உண்மை", "isCorrect": true },
+              { "answerText": "தவறு", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "உரை ____ அணுகுமுறைகளைப் பயன்படுத்தி பிரதிநிதித்துவப்படுத்தலாம்",
+            "answerOptions": [
+              { "answerText": "1", "isCorrect": false },
+              { "answerText": "2", "isCorrect": true },
+              { "answerText": "3", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "கேரக்டர்-நிலை பிரதிநிதித்துவம் ஒவ்வொரு _____ ஐ ஒரு எண்ணாகக் காட்டுகிறது",
+            "answerOptions": [
+              { "answerText": "எழுத்து", "isCorrect": true },
+              { "answerText": "சொல்", "isCorrect": false },
+              { "answerText": "சின்னம்", "isCorrect": false }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 213,
+        "title": "உரை பிரதிநிதித்துவம்: பிந்தைய வினா",
+        "quiz": [
+          {
+            "questionText": "சொல்-நிலை பிரதிநிதித்துவம் _____ ஐ ஒரு எண்ணாகக் காட்டுகிறது",
+            "answerOptions": [
+              { "answerText": "எழுத்து", "isCorrect": false },
+              { "answerText": "சொல்", "isCorrect": true },
+              { "answerText": "சின்னம்", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "N-Grams என்பது _____ குறிக்கிறது",
+            "answerOptions": [
+              { "answerText": "n எண்ணிக்கையிலான சொற்கள் மற்றும் சின்னங்களின் சேர்க்கை", "isCorrect": false },
+              { "answerText": "n எண்ணிக்கையிலான எழுத்துகளின் சேர்க்கை", "isCorrect": false },
+              { "answerText": "n எண்ணிக்கையிலான சொற்களின் சேர்க்கை", "isCorrect": true }
+            ]
+          },
+          {
+            "questionText": "N-gram இன் முக்கிய குறைபாடு என்னவென்றால் சொற்களஞ்சியம் (vocabulary) அளவு வேகமாக அதிகரிக்கும்",
+            "answerOptions": [
+              { "answerText": "உண்மை", "isCorrect": true },
+              { "answerText": "தவறு", "isCorrect": false }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
+
+

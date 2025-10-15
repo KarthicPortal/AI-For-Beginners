@@ -1,0 +1,70 @@
+[
+  {
+    "title": "தொடக்கநிலை AI: வினாக்கள்",
+    "complete": "வாழ்த்துக்கள், நீங்கள் வினாதாளை முடித்துவிட்டீர்கள்!",
+    "error": "மன்னிக்கவும், மீண்டும் முயற்சி செய்யவும்",
+    "quizzes": [
+      {
+        "id": 123,
+        "title": "மல்டி-ஏஜெண்ட் மாதிரியாக்கம்: முன் வினா",
+        "quiz": [
+          {
+            "questionText": "எளிய ஏஜெண்ட்களின் நடத்தையை மாதிரியாக்குவதன் மூலம், ஒரு அமைப்பின் சிக்கலான நடத்தைகளை நாங்கள் புரிந்து கொள்ள முடியும்.",
+            "answerOptions": [
+              { "answerText": "உண்மை", "isCorrect": true },
+              { "answerText": "தவறு", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "Metasystem transition என்ற கோட்பாடு எதிலிருந்து பெறப்பட்டது:",
+            "answerOptions": [
+              { "answerText": "Evolutionary Cybernetics", "isCorrect": false },
+              { "answerText": "Emergentism", "isCorrect": false },
+              { "answerText": "இரண்டுமே", "isCorrect": true }
+            ]
+          },
+          {
+            "questionText": "மல்டி-ஏஜெண்ட் அமைப்புகள் ____களில் தோன்றின:",
+            "answerOptions": [
+              { "answerText": "1970கள்", "isCorrect": false },
+              { "answerText": "1980கள்", "isCorrect": false },
+              { "answerText": "1990கள்", "isCorrect": true }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 223,
+        "title": "மல்டி-ஏஜெண்ட் மாதிரியாக்கம்: பிந்தைய வினா",
+        "quiz": [
+          {
+            "questionText": "ஒரு ஏஜெண்ட் என்பது:",
+            "answerOptions": [
+              { "answerText": "தனியாக வாழும்实体", "isCorrect": false },
+              { "answerText": "சுற்றுப்புறத்தில் வாழும்实体", "isCorrect": true },
+              { "answerText": "புத்திசாலியான实体", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "Reactive ஏஜெண்ட்களுக்கு பொதுவாக:",
+            "answerOptions": [
+              { "answerText": "எளிய request-response நடத்தை", "isCorrect": true },
+              { "answerText": "சிக்கலான நடத்தை", "isCorrect": false },
+              { "answerText": "எந்த நடத்தையும் இல்லை", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "மல்டி-ஏஜெண்ட் அமைப்புகள் எங்கே பயன்படுத்தப்படுகின்றன:",
+            "answerOptions": [
+              { "answerText": "வீடியோ தயாரிப்பு மற்றும் systems மாதிரியாக்கம்", "isCorrect": false },
+              { "answerText": "விளையாட்டுகள் மற்றும் தானியங்கி செயல்பாடுகள்", "isCorrect": false },
+              { "answerText": "மேலே உள்ள இரண்டும்", "isCorrect": true }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
+
+

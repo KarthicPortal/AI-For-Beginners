@@ -1,0 +1,70 @@
+[
+  {
+    "title": "தொடக்கநிலை AI: வினாக்கள்",
+    "complete": "வாழ்த்துக்கள், நீங்கள் வினாதாளை முடித்துவிட்டீர்கள்!",
+    "error": "மன்னிக்கவும், மீண்டும் முயற்சி செய்யவும்",
+    "quizzes": [
+      {
+        "id": 118,
+        "title": "டிரான்ஸ்ஃபார்மர்கள்: முன் வினா",
+        "quiz": [
+          {
+            "questionText": "அட்டென்ஷன் (Attention) மெக்கானிசம் RNN இன் வெளியீட்டு கணிப்பில் உள்ளீட்டு வெக்டரின் தாக்கத்தை _____ செய்ய ஒரு வழியை வழங்குகிறது",
+            "answerOptions": [
+              { "answerText": "எடையிடுதல் (weighting)", "isCorrect": true },
+              { "answerText": "பயிற்சி", "isCorrect": false },
+              { "answerText": "சோதனை", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "BERT என்பதன் விரிவாக்கம்",
+            "answerOptions": [
+              { "answerText": "Bidirectional Encoded Representations From Transformers", "isCorrect": false },
+              { "answerText": "Bidirectional Encoder Representations From Transformers", "isCorrect": true },
+              { "answerText": "Bidirectional Encoder Representatives of Transformers", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "Positional encoding இல் டோக்கனின் தொடர்புடைய நிலை படிகளின் எண்ணிக்கையால் பிரதிநிதித்துவப்படுத்தப்படுகிறது",
+            "answerOptions": [
+              { "answerText": "உண்மை", "isCorrect": true },
+              { "answerText": "தவறு", "isCorrect": false }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 218,
+        "title": "டிரான்ஸ்ஃபார்மர்கள்: பிந்தைய வினா",
+        "quiz": [
+          {
+            "questionText": "Positional embedding வரிசையின் உள்ளே மூல டோக்கனையும் அதன் நிலையும் _____",
+            "answerOptions": [
+              { "answerText": "பிரிக்கிறது", "isCorrect": false },
+              { "answerText": "ஒப்பிடுகிறது", "isCorrect": false },
+              { "answerText": "உட்பொதிக்கிறது (embeds)", "isCorrect": true }
+            ]
+          },
+          {
+            "questionText": "நெட்வொர்க்கு பல்வேறு சார்புகளைக் (dependencies) பிடிக்கும் சக்தியை வழங்க டிரான்ஸ்ஃபார்மர்களில் Multi-Head Attention பயன்படுத்தப்படுகிறது",
+            "answerOptions": [
+              { "answerText": "வேறு-வகைகள் (different types)", "isCorrect": true },
+              { "answerText": "அதே வகை", "isCorrect": false },
+              { "answerText": "யாதுமில்லை", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "டிரான்ஸ்ஃபார்மர்களில் அட்டென்ஷன் _____ இடங்களில் பயன்படுத்தப்படுகிறது",
+            "answerOptions": [
+              { "answerText": "1", "isCorrect": false },
+              { "answerText": "2", "isCorrect": true },
+              { "answerText": "3", "isCorrect": false }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
+
+

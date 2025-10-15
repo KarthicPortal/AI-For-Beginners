@@ -1,0 +1,71 @@
+[
+  {
+    "title": "தொடக்கநிலை AI: வினாக்கள்",
+    "complete": "வாழ்த்துக்கள், நீங்கள் வினாதாளை முடித்துவிட்டீர்கள்!",
+    "error": "மன்னிக்கவும், மீண்டும் முயற்சி செய்யவும்",
+    "quizzes": [
+      {
+        "id": 112,
+        "title": "செக்மென்டேஷன்: முன் வினா",
+        "quiz": [
+          {
+            "questionText": "எத்தனை செக்மென்டேஷன் அல்காரிதங்கள் உள்ளன?",
+            "answerOptions": [
+              { "answerText": "1", "isCorrect": false },
+              { "answerText": "2", "isCorrect": true },
+              { "answerText": "3", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "செக்மென்டேஷன் ஒரு _____ வேலை",
+            "answerOptions": [
+              { "answerText": "கணினி பார்வை", "isCorrect": true },
+              { "answerText": "இயற்கை மொழி செயலாக்கம்", "isCorrect": false },
+              { "answerText": "நரம்பு வலையமைப்புகள்", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "செக்மென்டேஷன் நெட்வொர்க்குகள் ____ மற்றும் ____ பகுதிகளை கொண்டுள்ளன",
+            "answerOptions": [
+              { "answerText": "classifier, divider", "isCorrect": false },
+              { "answerText": "encoder, decoder", "isCorrect": true },
+              { "answerText": "generator, discriminator", "isCorrect": false }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 212,
+        "title": "செக்மென்டேஷன்: பிந்தைய வினா",
+        "quiz": [
+          {
+            "questionText": "____ உள்ளீட்டு படத்திலிருந்து அம்சங்களை (features) பிரித்தெடுக்கிறது",
+            "answerOptions": [
+              { "answerText": "decoder", "isCorrect": false },
+              { "answerText": "generator", "isCorrect": false },
+              { "answerText": "encoder", "isCorrect": true }
+            ]
+          },
+          {
+            "questionText": "____ உள்ளீட்டு அம்சங்களை mask படமாக மாற்றுகிறது",
+            "answerOptions": [
+              { "answerText": "decoder", "isCorrect": true },
+              { "answerText": "generator", "isCorrect": false },
+              { "answerText": "encoder", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "SegNet பல அடுக்கு நெட்வொர்க்கைப் பயிற்றுவிக்க ____ மீது நம்புகிறது",
+            "answerOptions": [
+              { "answerText": "batch normalization", "isCorrect": true },
+              { "answerText": "height normalization", "isCorrect": false },
+              { "answerText": "weight normalization", "isCorrect": false }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
+
+

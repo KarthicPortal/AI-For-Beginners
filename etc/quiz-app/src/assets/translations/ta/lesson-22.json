@@ -1,0 +1,71 @@
+[
+  {
+    "title": "தொடக்கநிலை AI: வினாக்கள்",
+    "complete": "வாழ்த்துக்கள், நீங்கள் வினாதாளை முடித்துவிட்டீர்கள்!",
+    "error": "மன்னிக்கவும், மீண்டும் முயற்சி செய்யவும்",
+    "quizzes": [
+      {
+        "id": 122,
+        "title": "ரீஇன்ஃபோர்ஸ்மெண்ட் லேர்னிங் (RL): முன் வினா",
+        "quiz": [
+          {
+            "questionText": "RL மாதிரியைப் பயிற்றுவிக்க, எங்களுக்கு தேவை",
+            "answerOptions": [
+              { "answerText": "செயற்கை சிமுலேஷன் சூழல்", "isCorrect": true },
+              { "answerText": "லேபிளிடப்பட்ட தரவுத்தொகுப்பு", "isCorrect": false },
+              { "answerText": "லேபிளிடப்படாத தரவுத்தொகுப்பு", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "ரீஇன்ஃபோர்ஸ்மெண்ட் லேர்னிங்கிற்கான நல்ல உதாரணம்:",
+            "answerOptions": [
+              { "answerText": "Zero-shot பட வகைப்படுத்தல்", "isCorrect": false },
+              { "answerText": "Zero-shot உரை வகைப்படுத்தல்", "isCorrect": false },
+              { "answerText": "சதுரங்கம் விளையாட கற்றல்", "isCorrect": true }
+            ]
+          },
+          {
+            "questionText": "RL அடிப்படையிலான சதுரங்க எஞ்சினை உருவாக்கும் போது, நாம்",
+            "answerOptions": [
+              { "answerText": "அனைத்து உள்ள சதுரங்க போட்டிகளையும் தரவுத்தொகுப்பாகப் பயன்படுத்த வேண்டும்", "isCorrect": false },
+              { "answerText": "கணினி பலமுறை தன்னிடமே விளையாட அனுமதிக்க வேண்டும்", "isCorrect": true },
+              { "answerText": "முழுமையான தேடல் அல்காரிதத்தை நிரலிட வேண்டும்", "isCorrect": false }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 222,
+        "title": "ரீஇன்ஃபோர்ஸ்மெண்ட் லேர்னிங் (RL): பிந்தைய வினா",
+        "quiz": [
+          {
+            "questionText": "RL பயிற்சி அல்காரிதம் தன்னால் எவ்வளவு நன்றாகச் செய்தது என்பதை எவ்வாறு அறிவது?",
+            "answerOptions": [
+              { "answerText": "அதிகமான accuracy அடைவதால்", "isCorrect": false },
+              { "answerText": "perplexity அளவீட்டை பயன்படுத்துவதால்", "isCorrect": false },
+              { "answerText": "reward function ஐப் பயன்படுத்துவதால்", "isCorrect": true }
+            ]
+          },
+          {
+            "questionText": "RL எந்த பிரச்சினைகளில் பயன்படுத்தப்படும்?",
+            "answerOptions": [
+              { "answerText": "Discrete சூழல்", "isCorrect": false },
+              { "answerText": "Continuous சூழல்", "isCorrect": false },
+              { "answerText": "இரண்டும்", "isCorrect": true }
+            ]
+          },
+          {
+            "questionText": "Actor-Critic மாதிரியில், critic முன்னறிவிப்பது",
+            "answerOptions": [
+              { "answerText": "Reward function", "isCorrect": true },
+              { "answerText": "சிறந்த அடுத்த செயல்", "isCorrect": false },
+              { "answerText": "அடுத்த செயல்களின் probability", "isCorrect": false }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
+
+

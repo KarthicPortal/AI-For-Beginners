@@ -1,0 +1,69 @@
+[
+  {
+    "title": "தொடக்கநிலை AI: வினாக்கள்",
+    "complete": "வாழ்த்துக்கள், நீங்கள் வினாதாளை முடித்துவிட்டீர்கள்!",
+    "error": "மன்னிக்கவும், மீண்டும் முயற்சி செய்யவும்",
+    "quizzes": [
+      {
+        "id": 105,
+        "title": "கூடங்கள் (Frameworks): முன் வினா",
+        "quiz": [
+          {
+            "questionText": "ஆழமான நரம்பு வலையமைப்பு பயிற்சி மிகுந்தக் கணக்கீடுகளைத் தேவைப்படுத்துகிறது",
+            "answerOptions": [
+              { "answerText": "உண்மை", "isCorrect": true },
+              { "answerText": "தவறு", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "overfitting நிகழ்வதற்கான காரணம் ____",
+            "answerOptions": [
+              { "answerText": "போதிய சோதனைத் தரவு இல்லை", "isCorrect": false },
+              { "answerText": "மிக சக்திவாய்ந்த மாதிரி", "isCorrect": true },
+              { "answerText": "வெளியீட்டு தரவு மிகுந்த சத்தம்", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "bias பிழைகள் எங்கள் ____ பயிற்சி தரவுக்கிடையேயான உறவை சரியாகப் பிடிக்க முடியாததால் ஏற்படுகின்றன",
+            "answerOptions": [
+              { "answerText": "மாதிரி (model)", "isCorrect": false },
+              { "answerText": "அல்காரிதம் (algorithm)", "isCorrect": true },
+              { "answerText": "கணினி", "isCorrect": false }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 205,
+        "title": "கூடங்கள் (Frameworks): பிந்தைய வினா",
+        "quiz": [
+          {
+            "questionText": "எங்கள் மாதிரி பொருளை (model object) தொகுத்தபின், ____ function ஐ அழைப்பதன் மூலம் பயிற்றுவிக்கிறோம்",
+            "answerOptions": [
+              { "answerText": "fit", "isCorrect": true },
+              { "answerText": "train", "isCorrect": false },
+              { "answerText": "teach", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "Binary cross-entropy 'log loss' என்றும் அழைக்கப்படுகிறது",
+            "answerOptions": [
+              { "answerText": "உண்மை", "isCorrect": true },
+              { "answerText": "தவறு", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "TensorFlow என்பது ____ கும் PyTorch என்பது ____ கும்",
+            "answerOptions": [
+              { "answerText": "Facebook, Google", "isCorrect": false },
+              { "answerText": "Google, Facebook", "isCorrect": true },
+              { "answerText": "Microsoft, Google", "isCorrect": false }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
+
+

@@ -1,0 +1,70 @@
+[
+  {
+    "title": "தொடக்கநிலை AI: வினாக்கள்",
+    "complete": "வாழ்த்துக்கள், நீங்கள் வினாதாளை முடித்துவிட்டீர்கள்!",
+    "error": "மன்னிக்கவும், மீண்டும் முயற்சி செய்யவும்",
+    "quizzes": [
+      {
+        "id": 111,
+        "title": "வஸ்து கண்டறிதல் (Object Detection): முன் வினா",
+        "quiz": [
+          {
+            "questionText": "நரம்பு வலையமைப்புகள் படங்களை வகைப்படுத்த மட்டுமே பயன்படுத்தப்படலாம்",
+            "answerOptions": [
+              { "answerText": "உண்மை", "isCorrect": false },
+              { "answerText": "தவறு", "isCorrect": true }
+            ]
+          },
+          {
+            "questionText": "வஸ்து கண்டறிதலில், ஒரு பொருளின் வகைப்பாட்டுடன் சேர்த்து அதன் ____ கூட கிடைக்கிறது",
+            "answerOptions": [
+              { "answerText": "வடிவம்", "isCorrect": false },
+              { "answerText": "இடம்", "isCorrect": true },
+              { "answerText": "வகை", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "ஒரு வஸ்து கண்டறிதல் மாதிரி எத்தனை பொருட்களை கண்டறிய முடியும்?",
+            "answerOptions": [
+              { "answerText": "ஒன்று", "isCorrect": false },
+              { "answerText": "இரண்டு", "isCorrect": false },
+              { "answerText": "எத்தனை வேண்டுமானாலும்", "isCorrect": true }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 211,
+        "title": "வஸ்து கண்டறிதல் (Object Detection): பிந்தைய வினா",
+        "quiz": [
+          {
+            "questionText": "ஒரு வஸ்து கண்டறிதல் மாதிரி எங்களுக்கு வழங்குவது",
+            "answerOptions": [
+              { "answerText": "பொருளின் வகை (class)", "isCorrect": false },
+              { "answerText": "பவுண்டிங் பாக்ஸ்", "isCorrect": false },
+              { "answerText": "வகையும் பவுண்டிங் பாக்ஸும் இரண்டும்", "isCorrect": true }
+            ]
+          },
+          {
+            "questionText": "எந்த வஸ்து கண்டறிதல் மாதிரிகள் வேகமானவை?",
+            "answerOptions": [
+              { "answerText": "ஒரு-பாஸ் (one-pass) மாதிரிகள்", "isCorrect": true },
+              { "answerText": "region proposal networks", "isCorrect": false },
+              { "answerText": "Fast R-CNN", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "பவுண்டிங் பாக்ஸ்கள் எவ்வளவு நன்றாக ஒழுங்குபடுத்தப்பட்டுள்ளன என்பதை மதிப்பிட எந்த அளவீட்டை பயன்படுத்தலாம்?",
+            "answerOptions": [
+              { "answerText": "accuracy", "isCorrect": false },
+              { "answerText": "precision", "isCorrect": false },
+              { "answerText": "IoU", "isCorrect": true }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
+
+

@@ -1,56 +1,54 @@
 // Tamil translations: lesson-1 localized; other lessons fall back to English
 import t1 from "./lesson-1.json";
-
-// Fallback to English for remaining lessons until localized
-import e2 from "../en/lesson-2.json";
-import e3 from "../en/lesson-3.json";
-import e4 from "../en/lesson-4.json";
-import e5 from "../en/lesson-5.json";
-import e6 from "../en/lesson-6.json";
-import e7 from "../en/lesson-7.json";
-import e8 from "../en/lesson-8.json";
-import e9 from "../en/lesson-9.json";
-import e10 from "../en/lesson-10.json";
-import e11 from "../en/lesson-11.json";
-import e12 from "../en/lesson-12.json";
-import e13 from "../en/lesson-13.json";
-import e14 from "../en/lesson-14.json";
-import e15 from "../en/lesson-15.json";
-import e16 from "../en/lesson-16.json";
-import e17 from "../en/lesson-17.json";
-import e18 from "../en/lesson-18.json";
-import e19 from "../en/lesson-19.json";
-import e20 from "../en/lesson-20.json";
-import e21 from "../en/lesson-21.json";
-import e22 from "../en/lesson-22.json";
-import e23 from "../en/lesson-23.json";
-import e24 from "../en/lesson-24.json";
+import t2 from "./lesson-2.json";
+import t3 from "./lesson-3.json";
+import t4 from "./lesson-4.json";
+import t5 from "./lesson-5.json";
+import t6 from "./lesson-6.json";
+import t7 from "./lesson-7.json";
+import t8 from "./lesson-8.json";
+import t9 from "./lesson-9.json";
+import t10 from "./lesson-10.json";
+import t11 from "./lesson-11.json";
+import t12 from "./lesson-12.json";
+import t13 from "./lesson-13.json";
+import t14 from "./lesson-14.json";
+import t15 from "./lesson-15.json";
+import t16 from "./lesson-16.json";
+import t17 from "./lesson-17.json";
+import t18 from "./lesson-18.json";
+import t19 from "./lesson-19.json";
+import t20 from "./lesson-20.json";
+import t21 from "./lesson-21.json";
+import t22 from "./lesson-22.json";
+import t23 from "./lesson-23.json";
+import t24 from "./lesson-24.json";
 
 const quiz = {
 	0: t1[0],
-	1: e2[0],
-	2: e3[0],
-	3: e4[0],
-	4: e5[0],
-	5: e6[0],
-	6: e7[0],
-	7: e8[0],
-	8: e9[0],
-	9: e10[0],
-	10: e11[0],
-	11: e12[0],
-	12: e13[0],
-	13: e14[0],
-	14: e15[0],
-	15: e16[0],
-	16: e17[0],
-	17: e18[0],
-	18: e19[0],
-	19: e20[0],
-	20: e21[0],
-	21: e22[0],
-	22: e23[0],
-	23: e24[0],
+	1: t2[0],
+	2: t3[0],
+	3: t4[0],
+	4: t5[0],
+	5: t6[0],
+	6: t7[0],
+	7: t8[0],
+	8: t9[0],
+	9: t10[0],
+	10: t11[0],
+	11: t12[0],
+	12: t13[0],
+	13: t14[0],
+	14: t15[0],
+	15: t16[0],
+	16: t17[0],
+	17: t18[0],
+	18: t19[0],
+	19: t20[0],
+	20: t21[0],
+	21: t22[0],
+	22: t23[0],
+	23: t24[0],
 };
 
 export default quiz;

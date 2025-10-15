@@ -1,0 +1,69 @@
+[
+  {
+    "title": "தொடக்கநிலை AI: வினாக்கள்",
+    "complete": "வாழ்த்துக்கள், நீங்கள் வினாதாளை முடித்துவிட்டீர்கள்!",
+    "error": "மன்னிக்கவும், மீண்டும் முயற்சி செய்யவும்",
+    "quizzes": [
+      {
+        "id": 121,
+        "title": "ஜெனெட்டிக் அல்காரிதம்கள்: முன் வினா",
+        "quiz": [
+          {
+            "questionText": "ஜெனெட்டிக் அல்காரிதம்கள் எவற்றின் மீது அடிப்படையாக உள்ளன?",
+            "answerOptions": [
+              { "answerText": "mutations", "isCorrect": false },
+              { "answerText": "selection", "isCorrect": false },
+              { "answerText": "a மற்றும் b இரண்டும்", "isCorrect": true }
+            ]
+          },
+          {
+            "questionText": "Crossover மூலம் இரண்டு தீர்வுகளை இணைத்து புதிய செல்லுபடி தீர்வைப் பெற முடியும்",
+            "answerOptions": [
+              { "answerText": "உண்மை", "isCorrect": true },
+              { "answerText": "தவறு", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "ஜெனெட்டிக் அல்காரிதத்திற்கு செல்லுபடியாகும் தீர்வுகளை _____ ஆக பிரதிநிதித்துவப்படுத்தலாம்",
+            "answerOptions": [
+              { "answerText": "genes", "isCorrect": true },
+              { "answerText": "neurons", "isCorrect": false },
+              { "answerText": "cells", "isCorrect": false }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 221,
+        "title": "ஜெனெட்டிக் அல்காரிதம்கள்: பிந்தைய வினா",
+        "quiz": [
+          {
+            "questionText": "ஜெனெட்டிக் அல்காரிதம்கள் எந்த பணிகளைத் தீர்க்க முடியும்",
+            "answerOptions": [
+              { "answerText": "அட்டவணை ஆப்டிமைசேஷன்", "isCorrect": false },
+              { "answerText": "சிறந்த பேக்கிங் (optimal packing)", "isCorrect": false },
+              { "answerText": "a மற்றும் b இரண்டும்", "isCorrect": true }
+            ]
+          },
+          {
+            "questionText": "ஜெனெட்டிக் அல்காரிததை நடைமுறைப்படுத்தும் போது முதல் படி இரண்டு genes ஐ சீரற்ற முறையில் தேர்ந்தெடுப்பதே",
+            "answerOptions": [
+              { "answerText": "உண்மை", "isCorrect": false },
+              { "answerText": "தவறு", "isCorrect": true }
+            ]
+          },
+          {
+            "questionText": "Crossover செயல்பாட்டைப் பயன்படுத்தும் போது அல்காரிதம் சீரற்ற முறையில் _____ genes ஐத் தேர்ந்தெடுக்கிறது",
+            "answerOptions": [
+              { "answerText": "3", "isCorrect": false },
+              { "answerText": "1", "isCorrect": false },
+              { "answerText": "2", "isCorrect": true }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
+
+

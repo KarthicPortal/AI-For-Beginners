@@ -1,0 +1,69 @@
+[
+  {
+    "title": "தொடக்கநிலை AI: வினாக்கள்",
+    "complete": "வாழ்த்துக்கள், நீங்கள் வினாதாளை முடித்துவிட்டீர்கள்!",
+    "error": "மன்னிக்கவும், மீண்டும் முயற்சி செய்யவும்",
+    "quizzes": [
+      {
+        "id": 109,
+        "title": "ஆட்டோஎன்கோடர்கள்: முன் வினா",
+        "quiz": [
+          {
+            "questionText": "சுய-மேற்பார்வைக் கற்றல் (Self-supervised learning) பயிற்சிக்கு ____ தரவைப் பயன்படுத்துகிறது",
+            "answerOptions": [
+              { "answerText": "முன்பயிற்சியளிக்கப்பட்ட", "isCorrect": false },
+              { "answerText": "raw", "isCorrect": true },
+              { "answerText": "லேபிளுடன்", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "Encoder நெட்வொர்க் உள்ளீட்டு படங்களை latent இடங்களுக்கு மாற்றுகிறது",
+            "answerOptions": [
+              { "answerText": "உண்மை", "isCorrect": true },
+              { "answerText": "தவறு", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "VAE என்பதன் விரிவாக்கம்?",
+            "answerOptions": [
+              { "answerText": "Variable AutoEncoding", "isCorrect": false },
+              { "answerText": "Variational auto-encoder", "isCorrect": true },
+              { "answerText": "Variational automated encoders", "isCorrect": false }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 209,
+        "title": "ஆட்டோஎன்கோடர்கள்: பிந்தைய வினா",
+        "quiz": [
+          {
+            "questionText": "ஆட்டோஎன்கோடர்களின் பண்புகள்",
+            "answerOptions": [
+              { "answerText": "தரவு-சிறப்பு (data specific)", "isCorrect": false },
+              { "answerText": "லேபிளில்லா தரவில் வேலை செய்கிறது", "isCorrect": false },
+              { "answerText": "மேற்கண்ட அனைத்தும்", "isCorrect": true }
+            ]
+          },
+          {
+            "questionText": "ஆட்டோஎன்கோடர்கள் படங்களிலிருந்து சத்தத்தை திறம்பட அகற்ற பயன்படுத்தப்படலாம்",
+            "answerOptions": [
+              { "answerText": "உண்மை", "isCorrect": true },
+              { "answerText": "தவறு", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "Variational auto-encoder இன் loss function இல் கீழ்கண்ட எந்த ஒன்று இல்லை?",
+            "answerOptions": [
+              { "answerText": "reconstruction loss", "isCorrect": false },
+              { "answerText": "KL loss", "isCorrect": false },
+              { "answerText": "TF loss", "isCorrect": true }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
+
+

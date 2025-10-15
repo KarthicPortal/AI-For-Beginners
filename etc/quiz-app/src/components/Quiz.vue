@@ -3,7 +3,7 @@
     <div v-for="q in questions[currLocale]" :key="q.quizzes[0].id">
       <div v-for="quiz in q.quizzes" :key="quiz.id">
         
-        <div v-if="route == quiz.id">
+        <div v-if="route == String(quiz.id)">
           <div>
             <h3 v-if="complete" class="message complete">{{ q.complete }}</h3>
             <div v-else>
@@ -53,7 +53,7 @@ export default {
       return messages;
     },
     currLocale() {
-      return this.$root.$i18n.locale;
+      return this.$i18n.locale;
     }
   },
 

@@ -1,0 +1,69 @@
+[
+  {
+    "title": "தொடக்கநிலை AI: வினாக்கள்",
+    "complete": "வாழ்த்துக்கள், நீங்கள் வினாதாளை முடித்துவிட்டீர்கள்!",
+    "error": "மன்னிக்கவும், மீண்டும் முயற்சி செய்யவும்",
+    "quizzes": [
+      {
+        "id": 117,
+        "title": "ஜெனரேட்டிவ் நெட்வொர்க்குகள்: முன் வினா",
+        "quiz": [
+          {
+            "questionText": "RNN களை உருவாக்கும் (generative) பணிகளுக்கு பயன்படுத்தலாம்",
+            "answerOptions": [
+              { "answerText": "ஆம்", "isCorrect": true },
+              { "answerText": "இல்லை", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "_____ என்பது ஒரு உள்ளீடும் ஒரு வெளியீடும் கொண்ட பாரம்பரிய நரம்பு வலையமைப்பு",
+            "answerOptions": [
+              { "answerText": "one-to-one", "isCorrect": true },
+              { "answerText": "sequence-to-sequence", "isCorrect": false },
+              { "answerText": "one-to-many", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "RNN ஒவ்வொரு உள்ளீட்டு டோக்கனுக்கும் அடுத்த வெளியீட்டு டோக்கனை உருவாக்குவதன் மூலம் உரையை உருவாக்குகிறது",
+            "answerOptions": [
+              { "answerText": "உண்மை", "isCorrect": true },
+              { "answerText": "தவறு", "isCorrect": false }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 217,
+        "title": "ஜெனரேட்டிவ் நெட்வொர்க்குகள்: பிந்தைய வினா",
+        "quiz": [
+          {
+            "questionText": "வெளியீட்டு என்கோடர் மறைநிலையை (hidden state) _____ வெளியீடாக மாற்றுகிறது",
+            "answerOptions": [
+              { "answerText": "one-hot-encoded", "isCorrect": true },
+              { "answerText": "வரிசை (sequence)", "isCorrect": false },
+              { "answerText": "எண்", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "உயர் probability களை உடைய எழுத்தைத் தேர்ந்தெடுப்பது எப்போதும் அர்த்தமுள்ள உரையைக் கொடுக்கும்",
+            "answerOptions": [
+              { "answerText": "உண்மை", "isCorrect": false },
+              { "answerText": "தவறு", "isCorrect": true },
+              { "answerText": "ஒருவேளை", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "Many-to-many என்பதையும் _____ என்று குறிப்பிடலாம்",
+            "answerOptions": [
+              { "answerText": "one-to-one", "isCorrect": false },
+              { "answerText": "sequence-to-sequence", "isCorrect": true },
+              { "answerText": "one-to-many", "isCorrect": false }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
+
+

@@ -1,0 +1,69 @@
+[
+  {
+    "title": "தொடக்கநிலை AI: வினாக்கள்",
+    "complete": "வாழ்த்துக்கள், நீங்கள் வினாதாளை முடித்துவிட்டீர்கள்!",
+    "error": "மன்னிக்கவும், மீண்டும் முயற்சி செய்யவும்",
+    "quizzes": [
+      {
+        "id": 103,
+        "title": "நரம்பு வலையமைப்புகள் அறிமுகம் - பர்செப்ட்ரான்: முன் வினா",
+        "quiz": [
+          {
+            "questionText": "ஆரம்ப கால நரம்பு வலையமைப்புகளுக்கு தேவைப்பட்டவை",
+            "answerOptions": [
+              { "answerText": "கையேடு எடை சரிசெய்தல்", "isCorrect": true },
+              { "answerText": "டெராபைட்டுகளான தரவு", "isCorrect": false },
+              { "answerText": "சிறப்பு தர்க்கம்", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "எளிய நரம்பு ஒரு 'மீதிமட்டத் தர்க்க அலகு' (threshold logic unit) என்றும் அழைக்கப்படுகிறது",
+            "answerOptions": [
+              { "answerText": "உண்மை", "isCorrect": true },
+              { "answerText": "தவறு", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "ஒரு பர்செப்ட்ரான் என்பது ___ வகை மாதிரி",
+            "answerOptions": [
+              { "answerText": "பல-வகை வகைப்படுத்தல்", "isCorrect": false },
+              { "answerText": "கிளஸ்டரிங்", "isCorrect": false },
+              { "answerText": "இரும வகை வகைப்படுத்தல்", "isCorrect": true }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 203,
+        "title": "நரம்பு வலையமைப்புகள் அறிமுகம் - பர்செப்ட்ரான்: பிந்தைய வினா",
+        "quiz": [
+          {
+            "questionText": "ஒரு பர்செப்ட்ரானை பயிற்றுவிக்க, குறைந்த ___ பெறும் எடை வெக்டரை (weights vector) கண்டுபிடிக்கவும்.",
+            "answerOptions": [
+              { "answerText": "அளவு", "isCorrect": false },
+              { "answerText": "பிழை", "isCorrect": true },
+              { "answerText": "கணுக்கள் (nodes)", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "எடைகளின் செயல்பாட்டை குறைக்க, நீங்கள் சரிசாய்வு இறக்கம் (gradient descent) பயன்படுத்தலாம்",
+            "answerOptions": [
+              { "answerText": "உண்மை", "isCorrect": true },
+              { "answerText": "தவறு", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "சரிசாய்வு இறக்கத்தின் போது, ஒவ்வொரு படியும் ___-ஐ புதுப்பிக்கிறது",
+            "answerOptions": [
+              { "answerText": "கற்றல் வீதம்", "isCorrect": false },
+              { "answerText": "எடைகள்", "isCorrect": true },
+              { "answerText": "சரிசாய்வு", "isCorrect": false }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
+
+

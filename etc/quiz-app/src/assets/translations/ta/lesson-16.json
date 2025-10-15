@@ -1,0 +1,70 @@
+[
+  {
+    "title": "தொடக்கநிலை AI: வினாக்கள்",
+    "complete": "வாழ்த்துக்கள், நீங்கள் வினாதாளை முடித்துவிட்டீர்கள்!",
+    "error": "மன்னிக்கவும், மீண்டும் முயற்சி செய்யவும்",
+    "quizzes": [
+      {
+        "id": 116,
+        "title": "RNN: முன் வினா",
+        "quiz": [
+          {
+            "questionText": "RNN என்பதன் விரிவாக்கம்?",
+            "answerOptions": [
+              { "answerText": "regression neural network", "isCorrect": false },
+              { "answerText": "recurrent neural network", "isCorrect": true },
+              { "answerText": "re-iterative neural network", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "எளிய RNN செலுக்கு இரண்டு எடை _____ உள்ளன",
+            "answerOptions": [
+              { "answerText": "அணி (matrices)", "isCorrect": true },
+              { "answerText": "செல்", "isCorrect": false },
+              { "answerText": "நரம்பு", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "vanishing gradients என்பது _____ இன் சிக்கல்",
+            "answerOptions": [
+              { "answerText": "RNN", "isCorrect": true },
+              { "answerText": "CNN", "isCorrect": false },
+              { "answerText": "KNN", "isCorrect": false }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 216,
+        "title": "RNN: பிந்தைய வினா",
+        "quiz": [
+          {
+            "questionText": "_____ உள்ளீடு மற்றும் மறை வெக்டரிலிருந்து சில தகவலை எடுத்து state இல் சேர்க்கிறது",
+            "answerOptions": [
+              { "answerText": "forget gate", "isCorrect": false },
+              { "answerText": "output gate", "isCorrect": false },
+              { "answerText": "input gate", "isCorrect": true }
+            ]
+          },
+          {
+            "questionText": "Bidirectional RNN கள் மீள்வரும் கணக்கீட்டை _____ செய்கின்றன",
+            "answerOptions": [
+              { "answerText": "இரு திசைகளிலும்", "isCorrect": true },
+              { "answerText": "வடமேற்கு திசை", "isCorrect": false },
+              { "answerText": "இடது-வலது திசை", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "அனைத்து RNN செல்களுக்கும் ஒரே பகிரக்கூடிய எடைகள் உள்ளன",
+            "answerOptions": [
+              { "answerText": "உண்மை", "isCorrect": true },
+              { "answerText": "தவறு", "isCorrect": false }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
+
+

@@ -1,0 +1,69 @@
+[
+  {
+    "title": "தொடக்கநிலை AI: வினாக்கள்",
+    "complete": "வாழ்த்துக்கள், நீங்கள் வினாதாளை முடித்துவிட்டீர்கள்!",
+    "error": "மன்னிக்கவும், மீண்டும் முயற்சி செய்யவும்",
+    "quizzes": [
+      {
+        "id": 104,
+        "title": "நரம்பு வலையமைப்புகள்: முன் வினா",
+        "quiz": [
+          {
+            "questionText": "முன்கூட்டிய கணிப்பின் தரத்தை loss function மூலம் அளவிடுகிறோம்",
+            "answerOptions": [
+              { "answerText": "உண்மை", "isCorrect": true },
+              { "answerText": "தவறு", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "ஒரு அடுக்கு வலையமைப்பு வகைப்படுத்தக் கூடியது ____",
+            "answerOptions": [
+              { "answerText": "ஒரே வரியில் இணைந்த வகுப்புகள்", "isCorrect": false },
+              { "answerText": "ஒரே வரியில் பிரிக்கக்கூடிய வகுப்புகள்", "isCorrect": true },
+              { "answerText": "ஒற்றை அடுக்குகளைக் கொண்ட வகுப்புகள்", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "பல அடுக்கு பர்செப்ட்ரானை பயிற்றுவிக்கும் முறை ____ என்று அழைக்கப்படுகிறது",
+            "answerOptions": [
+              { "answerText": "பின் பரவல் (backpropagation)", "isCorrect": true },
+              { "answerText": "பல பரவல்", "isCorrect": false },
+              { "answerText": "முன் பரவல்", "isCorrect": false }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 204,
+        "title": "நரம்பு வலையமைப்புகள்: பிந்தைய வினா",
+        "quiz": [
+          {
+            "questionText": "நாம் ____ ஐ ரிக்ரெஷன் loss functions க்கு பயன்படுத்துகிறோம்",
+            "answerOptions": [
+              { "answerText": "முழுப் பிழை (absolute error)", "isCorrect": false },
+              { "answerText": "சராசரி சதுரப் பிழை (mean squared error)", "isCorrect": false },
+              { "answerText": "மேற்கண்ட அனைத்தும்", "isCorrect": true }
+            ]
+          },
+          {
+            "questionText": "கீழ்க்கண்டவற்றில் ஒன்று தவிர மற்றவை வகைப்படுத்தல் loss function",
+            "answerOptions": [
+              { "answerText": "0-1 loss", "isCorrect": false },
+              { "answerText": "இரும loss (binary loss)", "isCorrect": true },
+              { "answerText": "லாஜிஸ்டிக் loss", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "Cross-entropy loss என்பது எந்த இரண்டு probability விநியோகங்களுக்கிடையேயும் ஒற்றுமையை கணக்கிடும் ஒரு function",
+            "answerOptions": [
+              { "answerText": "உண்மை", "isCorrect": true },
+              { "answerText": "தவறு", "isCorrect": false }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
+
+

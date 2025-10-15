@@ -17,7 +17,7 @@
             ]
           },
           {
-            "questionText": "வீக் AI பல பணிகளைத் தீர்க்க வடிவமைக்கப்பட்டது",
+            "questionText": "பலவீன AI பல பணிகளைத் தீர்க்க வடிவமைக்கப்பட்டது",
             "answerOptions": [
               { "answerText": "உண்மை", "isCorrect": false },
               { "answerText": "தவறு", "isCorrect": true }
@@ -38,7 +38,7 @@
         "title": "AI அறிமுகம்: பிந்தைய வினாடி வினா",
         "quiz": [
           {
-            "questionText": "AI-க்கு ஒரு மேல்-கீழ் அணுகுமுறை என்று அழைக்கப்படும் தர்க்க மாதிரி எது?",
+            "questionText": "AI-க்கு ஒரு மேலிருந்து கீழே அணுகுமுறை என்று அழைக்கப்படும் தர்க்க மாதிரி எது?",
             "answerOptions": [
               { "answerText": "தந்திர தர்க்கம்", "isCorrect": false },
               { "answerText": "சின்னவியல் தர்க்கம்", "isCorrect": true },
@@ -46,7 +46,7 @@
             ]
           },
           {
-            "questionText": "AI-க்கு ஒரு கீழ்-மேல் அணுகுமுறை நரம்பு வலையமைப்புகளை அடிப்படையாகக் கொண்டது",
+            "questionText": "AI-க்கு ஒரு கீழிருந்து மேலே அணுகுமுறை நரம்பு வலையமைப்புகளை அடிப்படையாகக் கொண்டது",
             "answerOptions": [
               { "answerText": "உண்மை", "isCorrect": true },
               { "answerText": "தவறு", "isCorrect": false }

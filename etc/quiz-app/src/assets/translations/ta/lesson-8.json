@@ -1,0 +1,69 @@
+[
+  {
+    "title": "தொடக்கநிலை AI: வினாக்கள்",
+    "complete": "வாழ்த்துக்கள், நீங்கள் வினாதாளை முடித்துவிட்டீர்கள்!",
+    "error": "மன்னிக்கவும், மீண்டும் முயற்சி செய்யவும்",
+    "quizzes": [
+      {
+        "id": 108,
+        "title": "முன்னதாக பயிற்சி பெற்ற நெட்வொர்க்குகள் மற்றும் மாற்றம் கற்றல்: முன் வினா",
+        "quiz": [
+          {
+            "questionText": "மாற்றம் கற்றல் அணுகுமுறை வகைப்படுத்தலுக்கு பயிற்சியளிக்கப்படாத மாதிரிகளைப் பயன்படுத்துகிறது",
+            "answerOptions": [
+              { "answerText": "உண்மை", "isCorrect": false },
+              { "answerText": "தவறு", "isCorrect": true }
+            ]
+          },
+          {
+            "questionText": "இதில் ஒன்று சாதாரணப்படுத்தும் (normalization) நுட்பமல்ல?",
+            "answerOptions": [
+              { "answerText": "height normalization", "isCorrect": true },
+              { "answerText": "weight normalization", "isCorrect": false },
+              { "answerText": "layer normalization", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "ஆழ்மையான கற்றலில், பாரம்பரிய gradient descent ____ ஆக இருக்கக்கூடும் என்பதால் SGD-ஐத் தேர்வு செய்கிறோம்",
+            "answerOptions": [
+              { "answerText": "வேகமானது", "isCorrect": false },
+              { "answerText": "மெதுவானது", "isCorrect": true }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 208,
+        "title": "முன்னதாக பயிற்சி பெற்ற நெட்வொர்க்குகள் மற்றும் மாற்றம் கற்றல்: பிந்தைய வினா",
+        "quiz": [
+          {
+            "questionText": "Dropout அடுக்குகள் ஒரு ____ நுட்பமாக செயல்படுகின்றன",
+            "answerOptions": [
+              { "answerText": "gradient boosting", "isCorrect": false },
+              { "answerText": "training", "isCorrect": false },
+              { "answerText": "regularization", "isCorrect": true }
+            ]
+          },
+          {
+            "questionText": "கன்வல்யூஷனல் feature extractor இன் எடைகளை உறையச் செய்தலை (freezing) எவ்வாறு செய்யலாம்?",
+            "answerOptions": [
+              { "answerText": "`requires_grad` ஐ `False` ஆக அமைத்தல்", "isCorrect": false },
+              { "answerText": "`trainable` ஐ `False` ஆக அமைத்தல்", "isCorrect": false },
+              { "answerText": "a மற்றும் b", "isCorrect": true }
+            ]
+          },
+          {
+            "questionText": "Batch normalization என்பது ____ வழியாக செல்லும் மதிப்புகளை சரியான இடைவெளிக்குக் கொண்டுவருகிறது",
+            "answerOptions": [
+              { "answerText": "அல்காரிதம்கள்", "isCorrect": false },
+              { "answerText": "batches", "isCorrect": false },
+              { "answerText": "நரம்பு வலையமைப்பு", "isCorrect": true }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
+
+

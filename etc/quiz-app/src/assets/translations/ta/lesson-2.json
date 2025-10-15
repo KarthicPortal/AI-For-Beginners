@@ -1,0 +1,69 @@
+[
+  {
+    "title": "தொடக்கநிலை AI: வினாக்கள்",
+    "complete": "வாழ்த்துக்கள், நீங்கள் வினாதாளை முடித்துவிட்டீர்கள்!",
+    "error": "மன்னிக்கவும், மீண்டும் முயற்சி செய்யவும்",
+    "quizzes": [
+      {
+        "id": 102,
+        "title": "அறிவு பிரதிநிதித்துவம் மற்றும் நிபுணர் அமைப்புகள்: முன் வினா",
+        "quiz": [
+          {
+            "questionText": "புத்திசாலி அமைப்புகளை உருவாக்கும் மேலிருந்து கீழே அணுகுமுறை எதின் மீது அடிப்படையாக இருந்தது?",
+            "answerOptions": [
+              { "answerText": "அறிவைத் தேடுதல் மற்றும் வாசித்தல்", "isCorrect": false },
+              { "answerText": "அறிவு பிரதிநிதித்துவம் மற்றும் காரணம்", "isCorrect": true },
+              { "answerText": "அறிவு தர்க்கம் மற்றும் தேடுதல்", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "அறிவு மற்றும் தகவல் ஒன்றே",
+            "answerOptions": [
+              { "answerText": "உண்மை", "isCorrect": false },
+              { "answerText": "தவறு", "isCorrect": true }
+            ]
+          },
+          {
+            "questionText": "அறிவு எவ்வாறு பெறப்படுகிறது?",
+            "answerOptions": [
+              { "answerText": "செயலில் ஈடுபட்ட கற்றல் செயல்முறை", "isCorrect": true },
+              { "answerText": "செயலற்ற கற்றல் செயல்முறை", "isCorrect": false },
+              { "answerText": "இரண்டுமே", "isCorrect": false }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 202,
+        "title": "அறிவு பிரதிநிதித்துவம் மற்றும் நிபுணர் அமைப்புகள்: பிந்தைய வினா",
+        "quiz": [
+          {
+            "questionText": "அறிவைக் காட்சிப்படுத்துவதற்கான எளிய முறை எது?",
+            "answerOptions": [
+              { "answerText": "அல்காரிதமிக் (algorithmic)", "isCorrect": true },
+              { "answerText": "சின்னவியல் (symbolic)", "isCorrect": false },
+              { "answerText": "ஒத்துழைப்பு (synergistic)", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "காட்சிநிகழ்வுகள் (Scenarios) காலத்தின் போக்கில் வெளிப்படும் சிக்கலான நிலைகளை பிரதிநிதித்துவப்படுத்த முடியும்",
+            "answerOptions": [
+              { "answerText": "உண்மை", "isCorrect": true },
+              { "answerText": "தவறு", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "forward inference ஆரம்ப தரவுடன் தொடங்கி பின்னர்:",
+            "answerOptions": [
+              { "answerText": "ஒரு தர்க்க வட்டத்தை இயக்குகிறது", "isCorrect": true },
+              { "answerText": "ஒரு இலக்கைத் தேடுகிறது", "isCorrect": false },
+              { "answerText": "மீண்டும் தொடங்குகிறது", "isCorrect": false }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
+
+

@@ -1,0 +1,70 @@
+[
+  {
+    "title": "தொடக்கநிலை AI: வினாக்கள்",
+    "complete": "வாழ்த்துக்கள், நீங்கள் வினாதாளை முடித்துவிட்டீர்கள்!",
+    "error": "மன்னிக்கவும், மீண்டும் முயற்சி செய்யவும்",
+    "quizzes": [
+      {
+        "id": 120,
+        "title": "மொழி மாதிரிகள்: முன் வினா",
+        "quiz": [
+          {
+            "questionText": "GPT என்பதன் விரிவாக்கம் என்ன?",
+            "answerOptions": [
+              { "answerText": "Generic Pre-Trained network", "isCorrect": false },
+              { "answerText": "Generative Pre-trained Transformers", "isCorrect": true },
+              { "answerText": "Generic Positional Text", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "GPT எதற்காக பயன்படுத்தப்படலாம்?",
+            "answerOptions": [
+              { "answerText": "உரை உருவாக்குதல்", "isCorrect": false },
+              { "answerText": "உரை வகைப்படுத்தல்", "isCorrect": false },
+              { "answerText": "உரை உருவாக்குதல் உட்பட பல பணிகள்", "isCorrect": true }
+            ]
+          },
+          {
+            "questionText": "GPT டிரான்ஸ்ஃபார்மர் கட்டமைப்பின் அடிப்படையில் உள்ளது",
+            "answerOptions": [
+              { "answerText": "உண்மை", "isCorrect": true },
+              { "answerText": "தவறு", "isCorrect": false }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 220,
+        "title": "மொழி மாதிரிகள்: பிந்தைய வினா",
+        "quiz": [
+          {
+            "questionText": "zero-shot learning என்பதேன்?",
+            "answerOptions": [
+              { "answerText": "முன்பயிற்சி செய்யப்பட்ட நெட்வொர்க்கில் இருந்து பதிலைப் பெறுதல்", "isCorrect": true },
+              { "answerText": "நெட்வொர்க்கை அடிப்படையிலிருந்து பயிற்சியளித்தல்", "isCorrect": false },
+              { "answerText": "ஒரு epoch மட்டும் பயிற்சி செய்தல்", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "Prompt engineering எதோடு பயன்படுத்தலாம்",
+            "answerOptions": [
+              { "answerText": "Zero-shot learning", "isCorrect": false },
+              { "answerText": "Few-shot learning", "isCorrect": false },
+              { "answerText": "இரண்டுமே", "isCorrect": true }
+            ]
+          },
+          {
+            "questionText": "ஒரு மொழி மாதிரியின் தரத்தை மதிப்பிட எந்த அளவீட்டை பயன்படுத்தலாம்?",
+            "answerOptions": [
+              { "answerText": "accuracy", "isCorrect": false },
+              { "answerText": "recall", "isCorrect": false },
+              { "answerText": "perplexity", "isCorrect": true }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
+
+

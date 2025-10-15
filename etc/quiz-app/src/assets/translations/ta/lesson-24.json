@@ -1,0 +1,78 @@
+[
+  {
+    "title": "தொடக்கநிலை AI: வினாக்கள்",
+    "complete": "வாழ்த்துக்கள், நீங்கள் வினாதாளை முடித்துவிட்டீர்கள்!",
+    "error": "மன்னிக்கவும், மீண்டும் முயற்சி செய்யவும்",
+    "quizzes": [
+      {
+        "id": 124,
+        "title": "நெறிமுறை மற்றும் பொறுப்பான AI: முன் வினா",
+        "quiz": [
+          {
+            "questionText": "ஏன் நெறிமுறை (Ethical) AI பற்றி கவலைப்பட வேண்டும்?",
+            "answerOptions": [
+              { "answerText": "AI ஒரு மிக வலிமையான கருவி, தீங்கு விளைவிக்க முடியும்", "isCorrect": false },
+              { "answerText": "AI மாதிரிகள் மனிதர்களை பாகுபடுத்தாததை உறுதிசெய்ய வேண்டும்", "isCorrect": false },
+              { "answerText": "இரண்டும்", "isCorrect": true }
+            ]
+          },
+          {
+            "questionText": "விளக்கக்கூடிய (interpretable) AI யின் உதாரணம் எது?",
+            "answerOptions": [
+              { "answerText": "நிபுணர் அமைப்பு (Expert system)", "isCorrect": true },
+              { "answerText": "நரம்பு வலையமைப்பு", "isCorrect": false },
+              { "answerText": "பட வகைப்பாட்டி", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "மருத்துவத்தில் AI ஐப் பயன்படுத்துவது நெறிமுறைக்குச் சரியல்ல",
+            "answerOptions": [
+              { "answerText": "உண்மை", "isCorrect": false },
+              { "answerText": "தவறு", "isCorrect": true }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 224,
+        "title": "நெறிமுறை மற்றும் பொறுப்பான AI: பிந்தைய வினா",
+        "quiz": [
+          {
+            "questionText": "ஏன் AI மாதிரி பாகுபாடு காட்டக்கூடும்?",
+            "answerOptions": [
+              { "answerText": "அது நட்பில்லாததாக மாறுவதால்", "isCorrect": false },
+              { "answerText": "தரவுத்தொகுப்புகள் சரியாக சமநிலைப்படுத்தப்படவில்லை", "isCorrect": true },
+              { "answerText": "டெவலப்பர்கள் அப்படியே நிரலிட்டதால்", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "கீழ்க்கண்டவற்றில் எது பொறுப்பான AI-யின் கோட்பாடு அல்ல?",
+            "answerOptions": [
+              { "answerText": "Transparency", "isCorrect": false },
+              { "answerText": "Fairness", "isCorrect": false },
+              { "answerText": "Cleverness", "isCorrect": true }
+            ]
+          },
+          {
+            "questionText": "AI அமைப்பின் Accountability என்பதன் பொருள்",
+            "answerOptions": [
+              { "answerText": "முடிவெடுப்பதில் மனிதர் ஈடுபட்டு, பொறுப்பேற்கக்கூடியவராக இருக்க வேண்டும்", "isCorrect": true },
+              { "answerText": "AI அமைப்பு தனது செயல்களுக்கு பொறுப்பேற்க வேண்டும்", "isCorrect": false },
+              { "answerText": "AI அமைப்பு டெவலப்பர்கள் பொறுப்பேற்க வேண்டும்", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "மாதிரி நியாயம் (fairness) தொடர்புடையது",
+            "answerOptions": [
+              { "answerText": "Interpretability", "isCorrect": false },
+              { "answerText": "பாகுபாடுகள் (biases)", "isCorrect": true },
+              { "answerText": "Accountability", "isCorrect": false }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
+
+

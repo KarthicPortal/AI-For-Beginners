@@ -1,0 +1,68 @@
+[
+  {
+    "title": "தொடக்கநிலை AI: வினாக்கள்",
+    "complete": "வாழ்த்துக்கள், நீங்கள் வினாதாளை முடித்துவிட்டீர்கள்!",
+    "error": "மன்னிக்கவும், மீண்டும் முயற்சி செய்யவும்",
+    "quizzes": [
+      {
+        "id": 107,
+        "title": "கன்வல்யூஷனல் நரம்பு வலையமைப்புகள் (CNN): முன் வினா",
+        "quiz": [
+          {
+            "questionText": "படங்களிலிருந்து வடிவங்களைப் பிரித்தெடுக்க நாம் எதைப் பயன்படுத்துகிறோம்?",
+            "answerOptions": [
+              { "answerText": "கன்வல்யூஷனல் வடிகட்டிகள்", "isCorrect": true },
+              { "answerText": "எக்ஸ்ட்ராக்டர்", "isCorrect": false },
+              { "answerText": "வடிகட்டிகள்", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "இதில் ஒன்று CNN கட்டமைப்பு அல்ல",
+            "answerOptions": [
+              { "answerText": "ResNet", "isCorrect": false },
+              { "answerText": "MobileNet", "isCorrect": false },
+              { "answerText": "TensorFlow", "isCorrect": true }
+            ]
+          },
+          {
+            "questionText": "CNN கள் பெரும்பாலும் கம்ப்யூட்டர் விஷன் பணிகளுக்கு பயன்படுத்தப்படுகின்றன.",
+            "answerOptions": [
+              { "answerText": "உண்மை", "isCorrect": true },
+              { "answerText": "தவறு", "isCorrect": false }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 207,
+        "title": "கன்வல்யூஷனல் நரம்பு வலையமைப்புகள் (CNN): பிந்தைய வினா",
+        "quiz": [
+          {
+            "questionText": "படத்தின் அளவை 'சிறிதாக்க' எது பயன்படுத்தப்படும் pooling layer?",
+            "answerOptions": [
+              { "answerText": "average pooling", "isCorrect": false },
+              { "answerText": "max pooling", "isCorrect": false },
+              { "answerText": "a மற்றும் b", "isCorrect": true }
+            ]
+          },
+          {
+            "questionText": "கன்வல்யூஷனல் நெட்வொர்க்குகள் சிறப்பாக பொதுமைப்படுத்துகின்றன",
+            "answerOptions": [
+              { "answerText": "உண்மை", "isCorrect": true },
+              { "answerText": "தவறு", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "எங்கள் நரம்பு வலையமைப்பைப் பயிற்றுவிக்க, படங்களை டென்சர்களாக மாற்ற வேண்டும்",
+            "answerOptions": [
+              { "answerText": "உண்மை", "isCorrect": true },
+              { "answerText": "தவறு", "isCorrect": false }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
+
+

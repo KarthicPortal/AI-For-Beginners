@@ -1,0 +1,71 @@
+[
+  {
+    "title": "தொடக்கநிலை AI: வினாக்கள்",
+    "complete": "வாழ்த்துக்கள், நீங்கள் வினாதாளை முடித்துவிட்டீர்கள்!",
+    "error": "மன்னிக்கவும், மீண்டும் முயற்சி செய்யவும்",
+    "quizzes": [
+      {
+        "id": 115,
+        "title": "மொழி மாதிரியாக்கம்: முன் வினா",
+        "quiz": [
+          {
+            "questionText": "கீழ்க்கண்டவற்றில் எதை மொழி மாதிரியாக கருதலாம்?",
+            "answerOptions": [
+              { "answerText": "Word2Vec எம்பெட்டிங்குகள்", "isCorrect": true },
+              { "answerText": "RNN இன் எம்பெட்டிங் அடுக்கு", "isCorrect": false },
+              { "answerText": "உரை வகைப்படுத்தலுக்கான RNN", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "ஒரு மொழி மாதிரி வாக்கியத்தில் அடுத்த சொல்லை ____ முடியும்",
+            "answerOptions": [
+              { "answerText": "use", "isCorrect": false },
+              { "answerText": "predict", "isCorrect": true },
+              { "answerText": "guess", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "மொழி மாதிரிகள் எதன் மீது பயிற்றுவிக்கப்படுகின்றன",
+            "answerOptions": [
+              { "answerText": "சொற்களஞ்சியம்", "isCorrect": false },
+              { "answerText": "சிறப்பாக லேபிளிடப்பட்ட தரவு", "isCorrect": false },
+              { "answerText": "எந்த இயற்கை உரையும்", "isCorrect": true }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 215,
+        "title": "மொழி மாதிரியாக்கம்: பிந்தைய வினா",
+        "quiz": [
+          {
+            "questionText": "சுற்றியுள்ள சொற்களிலிருந்து ஒரு சொல்லை கணிக்கும் கட்டமைப்பு எது?",
+            "answerOptions": [
+              { "answerText": "CBoW", "isCorrect": true },
+              { "answerText": "Skip-gram", "isCorrect": false },
+              { "answerText": "N-Gram", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "CBoW மாதிரியைப் பயிற்றுவித்தால், நாங்கள் பெறுவது",
+            "answerOptions": [
+              { "answerText": "உரை உருவாக்கும் மாதிரி", "isCorrect": false },
+              { "answerText": "Word2Vec எம்பெட்டிங் வெக்டார்கள்", "isCorrect": true },
+              { "answerText": "உரை வகைப்படுத்தல் மாதிரி", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "CBoW மாதிரி எந்தக் கட்டமைப்பின் அடிப்படையில் அமைந்துள்ளது",
+            "answerOptions": [
+              { "answerText": "அடர்த்தியான நரம்பு வலையமைப்பு", "isCorrect": true },
+              { "answerText": "கன்வல்யூஷனல் நரம்பு வலையமைப்பு", "isCorrect": false },
+              { "answerText": "மீள்வரும் நரம்பு வலையமைப்பு (RNN)", "isCorrect": false }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
+
+

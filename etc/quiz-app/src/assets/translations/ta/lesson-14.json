@@ -1,0 +1,68 @@
+[
+  {
+    "title": "தொடக்கநிலை AI: வினாக்கள்",
+    "complete": "வாழ்த்துக்கள், நீங்கள் வினாதாளை முடித்துவிட்டீர்கள்!",
+    "error": "மன்னிக்கவும், மீண்டும் முயற்சி செய்யவும்",
+    "quizzes": [
+      {
+        "id": 114,
+        "title": "எம்பெட்டிங்குகள்: முன் வினா",
+        "quiz": [
+          {
+            "questionText": "எம்பெட்டிங் என்பது சொற்களை _____ பரிமாண அடர்த்தியான வெக்டர்களால் பிரதிநிதித்துவப்படுத்த பயன்படுத்தப்படுகிறது",
+            "answerOptions": [
+              { "answerText": "குறைந்த", "isCorrect": true },
+              { "answerText": "அதிக", "isCorrect": false },
+              { "answerText": "சராசரி", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "Word2Vec முன்பயிற்சியளிக்கப்பட்ட எம்பெட்டிங்குகளை நரம்பு வலையமைப்புகளில் எம்பெட்டிங் அடுக்கு பதிலாகவும் பயன்படுத்தலாம்",
+            "answerOptions": [
+              { "answerText": "உண்மை", "isCorrect": true },
+              { "answerText": "தவறு", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "எம்பெட்டிங் அடுக்கைப் பயன்படுத்தி bag-of-words இலிருந்து embedding bag க்கு மாற முடியாது",
+            "answerOptions": [
+              { "answerText": "உண்மை", "isCorrect": false },
+              { "answerText": "தவறு", "isCorrect": true }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 214,
+        "title": "எம்பெட்டிங்குகள்: பிந்தைய வினா",
+        "quiz": [
+          {
+            "questionText": "Word2Vec க்கு _____ முக்கிய கட்டமைப்புகள் உள்ளன",
+            "answerOptions": [
+              { "answerText": "1", "isCorrect": false },
+              { "answerText": "2", "isCorrect": true },
+              { "answerText": "3", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "சொல்லின் அர்த்தத் தெளிவாக்கம் (word sense disambiguation) என்பது பாரம்பரிய முன்பயிற்சி எம்பெட்டிங் பிரதிநிதித்துவங்களின் ஒரு வரம்பாகும்",
+            "answerOptions": [
+              { "answerText": "உண்மை", "isCorrect": true },
+              { "answerText": "தவறு", "isCorrect": false }
+            ]
+          },
+          {
+            "questionText": "ஒரு எம்பெட்டிங் அடுக்கு உள்ளீடாக _____ ஐ எடுக்கிறது",
+            "answerOptions": [
+              { "answerText": "சொல்", "isCorrect": true },
+              { "answerText": "சின்னம்", "isCorrect": false },
+              { "answerText": "எண்", "isCorrect": false }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
+
+
